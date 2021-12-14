@@ -1,1 +1,1 @@
-{"version":"3.0.5", "notes":"none"}
+{"version":"beta-1.0.0", "notes":"none"}
