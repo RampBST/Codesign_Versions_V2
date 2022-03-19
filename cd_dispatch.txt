@@ -1,1 +1,1 @@
-{"version":"409", "notes":"Delete the old folder completely and use the new one!"}
+{"version":"411", "notes":"Delete the old folder completely and use the new one! And please READ THE CHANGELOG before updating!!!"}
