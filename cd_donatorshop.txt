@@ -1,1 +1,1 @@
-{"version":"4.0.1", "notes":"Download new version from KEYMASTER!"}
+{"version":"4.0.2", "notes":"Delete the old folder completely and add the new one"}
