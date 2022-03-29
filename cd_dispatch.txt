@@ -1,1 +1,1 @@
-{"version":"4.2.0", "notes":"Delete the old folder completely and use the new one. Beta testing stage has ended"}
+{"version":"4.2.0", "notes":"Beta testing has ended. Delete the old folder completely and use the new one."}
