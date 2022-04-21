@@ -1,1 +1,1 @@
-{"version":"4.0.6", "notes":"Delete the old folder completely and add the new one"}
+{"version":"4.0.7", "notes":"Make sure always read the changelog"}
