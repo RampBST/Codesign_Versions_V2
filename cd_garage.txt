@@ -1,1 +1,1 @@
-{"version":"4.0.7", "notes":"Make sure always read the changelog"}
+{"version":"4.0.7", "notes":"Minor fixes"}
