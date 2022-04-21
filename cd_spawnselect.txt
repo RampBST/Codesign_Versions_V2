@@ -1,1 +1,1 @@
-{"version":"4.0.21", "notes":"Small fix for no framework users"}
+{"version":"4.0.2", "notes":"Small fix for no framework users"}
