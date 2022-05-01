@@ -1,1 +1,1 @@
-{"version":"1.3.4", "notes":"small fixes and user friendly changes"}
+{"version":"1.3.5", "notes":"minor typo fix"}
