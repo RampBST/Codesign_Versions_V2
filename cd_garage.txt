@@ -1,1 +1,1 @@
-{"version":"4.0.7", "notes":"Minor fixes"}
+{"version":"4.1.0", "notes":"Updated vehicle plate system to be more user friendly"}
