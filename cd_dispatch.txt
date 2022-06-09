@@ -1,1 +1,1 @@
-{"version":"4.2.0", "notes":"Beta testing has ended, this is the official stable release."}
+{"version":"4.2.1", "notes":"Security fixes."}
