@@ -1,1 +1,1 @@
-{"version":"4.0.4", "notes":"Small fix to test drive feature"}
+{"version":"4.0.5", "notes":"Small fixes and code cleanup"}
