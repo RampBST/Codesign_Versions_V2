@@ -1,1 +1,1 @@
-{"version":"4.1.0", "notes":"Updated vehicle plate system to be more user friendly"}
+{"version":"4.2.0", "notes":"This version is a BETA TEST version, don't update yet unless you are willing to test."}
