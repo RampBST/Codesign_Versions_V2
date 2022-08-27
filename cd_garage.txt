@@ -1,1 +1,1 @@
-{"version":"4.2.0", "notes":"This version is a BETA TEST version, don't update yet unless you are willing to test."}
+{"version":"4.2.0", "notes":"BETA testing has finished. This version is ready for public use"}
