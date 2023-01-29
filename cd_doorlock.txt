@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fix for standalone method"}
+{"version":"1.0.4", "notes":"Majour uodate to standalone perms"}
