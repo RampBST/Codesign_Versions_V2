@@ -1,1 +1,1 @@
-{"version":"4.2.2", "notes":"Added persistent vehicles and other minor fixes/updates"}
+{"version":"4.2.3", "notes":"Bug fixes and improvments"}
