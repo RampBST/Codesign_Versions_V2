@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Minor bug fixes"}
+{"version":"1.0.3", "notes":"Multi perms method and minor bug fixes"}
