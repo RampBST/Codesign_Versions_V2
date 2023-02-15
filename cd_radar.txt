@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Multi perms method and minor bug fixes"}
+{"version":"1.0.4", "notes":"cd_dispatch integration and webhook fixes"}
