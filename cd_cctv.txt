@@ -1,1 +1,1 @@
-{"version":"0.0.7", "notes":"BETA TEST VERSIONS"}
+{"version":"0.0.9", "notes":"EARLY ACCESS VERSION UPDATE"}
