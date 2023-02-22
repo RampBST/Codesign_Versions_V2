@@ -1,1 +1,1 @@
-{"version":"4.2.3", "notes":"Majour quality of life updates and cd_radar compatibility."}
+{"version":"4.2.4", "notes":"Minor fixes."}
