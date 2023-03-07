@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"New QOL features and bug fixs"}
+{"version":"1.0.9", "notes":"bug fixes and more new pre configured notifications"}
