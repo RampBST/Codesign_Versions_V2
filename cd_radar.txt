@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"cd_dispatch integration and webhook fixes"}
+{"version":"1.0.5", "notes":"minor changes and optimisations"}
