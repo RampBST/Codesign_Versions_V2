@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"New auto detect feature"}
+{"version":"1.0.1", "notes":"new auto detect feature", "release_date":{"day":4,"month":6,"year":2023}}
