@@ -1,1 +1,1 @@
-{"version":"4.2.5", "notes":"Minor fixes", release_date = {01/06/2023}}
+{"version":"4.2.5", "notes":"Minor fixes", "release_date" = 1}
