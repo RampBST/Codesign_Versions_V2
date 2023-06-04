@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"small fixes to perms checks"}
+{"version":"1.0.2", "notes":"small fixes to perms checks", "release_date":{"day":8,"month":8,"year":2022}}
