@@ -1,1 +1,1 @@
-{"version":"4.2.5", "notes":"Minor fixes"}
+{"version":"4.2.5", "notes":"minor fixes", "release_date":{"day":1,"month":6,"year":2023}}
