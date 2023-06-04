@@ -1,1 +1,1 @@
-{"version":"4.0.3", "notes":"Added zoom to spawnselect map"}
+{"version":"4.0.3", "notes":"Added zoom to spawnselect map", "release_date":{"day":9,"month":8,"year":2022}}
