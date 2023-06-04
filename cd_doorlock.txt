@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"bug fixes and more new pre configured notifications"}
+{"version":"1.0.11", "notes":"bug fixes"}
