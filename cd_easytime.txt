@@ -1,1 +1,1 @@
-{"version":"1.3.7", "notes":"Fixed compatibility with latest esx update"}
+{"version":"1.3.7", "notes":"fixed compatibility with latest esx update", "release_date":{"day":4,"month":6,"year":2023}}
