@@ -1,1 +1,1 @@
-{"version":"4.1.0", "notes":"majour update", "release_date":{"day":14,"month":6,"year":2023}}
+{"version":"4.1.1", "notes":"/redeem command fix", "release_date":{"day":06,"month":12,"year":2024}}
