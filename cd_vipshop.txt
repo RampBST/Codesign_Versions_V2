@@ -1,1 +1,1 @@
-{"version":"4.1.1", "notes":"/redeem command fix", "release_date":{"day":06,"month":12,"year":2024}}
+{"version":"4.1.1", "notes":"redeem command fix", "release_date":{"day":06,"month":12,"year":2024}}
