@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Bug fixes", "release_date":{"day":17,"month":9,"year":2024}}
+{"version":"1.1.1", "notes":"Fix for esx character names", "release_date":{"day":19,"month":2,"year":2025}}
