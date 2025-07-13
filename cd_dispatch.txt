@@ -1,1 +1,1 @@
-{"version":"4.3.2", "notes":"Hotfix and error handling update", "release_date":{"day":20,"month":5,"year":2024}}
+{"version":"4.3.3", "notes":"EXPLOIT FIX - PLEASE UPDATE", "release_date":{"day":13,"month":7,"year":2025}}
