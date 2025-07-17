@@ -1,1 +1,1 @@
-{"version":"4.0.2", "notes":"small typo fix", "release_date":{"day":7,"month":7,"year":2021}}
+{"version":"4.0.3", "notes":"Fixed deprecated SetCarBootOpen native", "release_date":{"day":17,"month":7,"year":2025}}
