@@ -1,1 +1,1 @@
-{"version":"5.0.0", "notes":"Major UI & Feature Overhaul", "release_date":{"day":18,"month":8,"year":2025}}
+{"version":"5.0.2", "notes":"V5 Major UI & Feature Overhaul. Further fixes.", "release_date":{"day":21,"month":8,"year":2025}}
