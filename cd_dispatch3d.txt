@@ -1,1 +1,1 @@
-{"version":"1.0.10", "notes":"Various bug fixes", "release_date":{"day":28,"month":7,"year":2025}}
+{"version":"1.0.11", "notes":"Added further checks to prevent lua injectors abusing the cd_dispatch:AddNotification event.", "release_date":{"day":23,"month":8,"year":2025}}
