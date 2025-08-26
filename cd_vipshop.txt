@@ -1,1 +1,1 @@
-{"version":"4.2.1", "notes":"database migration update and other fixes", "release_date":{"day":15,"month":4,"year":2025}}
+{"version":"4.2.2", "notes":"Fixed wrong balance on discord webhooks", "release_date":{"day":26,"month":8,"year":2025}}
