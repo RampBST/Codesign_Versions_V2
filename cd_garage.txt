@@ -1,1 +1,1 @@
-{"version":"5.0.5", "notes":"Bug fixes", "release_date":{"day":15,"month":9,"year":2025}}
+{"version":"5.0.6", "notes":"RMajor Resource Integrations", "release_date":{"day":4,"month":11,"year":2025}}
