@@ -1,1 +1,1 @@
-{"version":"4.3.4", "notes":"Added Anti Cheat from Dispatch3D", "release_date":{"day":23,"month":8,"year":2025}}
+{"version":"4.3.5", "notes":"Fixed an error with diswcord webhooks", "release_date":{"day":25,"month":11,"year":2025}}
