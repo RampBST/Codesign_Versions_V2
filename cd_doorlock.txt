@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Complete Overhaul", "release_date":{"day":26,"month":11,"year":2025}}
+{"version":"2.0.2", "notes":"Complete Overhaul", "release_date":{"day":26,"month":11,"year":2025}}
