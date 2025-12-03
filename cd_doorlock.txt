@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"Complete Overhaul", "release_date":{"day":26,"month":11,"year":2025}}
+{"version":"2.1.0", "notes":"Added SQL database,  cd_bridge & bug fixes", "release_date":{"day":3,"month":12,"year":2025}}
