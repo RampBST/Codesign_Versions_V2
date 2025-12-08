@@ -1,1 +1,1 @@
-{"version":"2.1.1", "notes":"Improvments with bridge", "release_date":{"day":4,"month":12,"year":2025}}
+{"version":"2.1.2", "notes":"Fixes auto_lock with sql database method", "release_date":{"day":8,"month":12,"year":2025}}
