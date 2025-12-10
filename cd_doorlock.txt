@@ -1,1 +1,1 @@
-{"version":"2.1.4", "notes":"Minor bug fixes", "release_date":{"day":9,"month":12,"year":2025}}
+{"version":"2.1.4", "notes":"Minor bug fixes, added Config.IconSize", "release_date":{"day":10,"month":12,"year":2025}}
