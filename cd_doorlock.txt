@@ -1,1 +1,1 @@
-{"version":"2.1.4", "notes":"Minor bug fixes, added Config.IconSize", "release_date":{"day":10,"month":12,"year":2025}}
+{"version":"2.1.5", "notes":"Fixed remove_lockpick_item callback not registered error", "release_date":{"day":12,"month":12,"year":2025}}
