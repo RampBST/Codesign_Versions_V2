@@ -1,1 +1,1 @@
-{"version":"2.1.5", "notes":"Fixed remove_lockpick_item callback not registered error", "release_date":{"day":12,"month":12,"year":2025}}
+{"version":"2.1.6", "notes":"Fixed identifier perms errors", "release_date":{"day":14,"month":12,"year":2025}}
