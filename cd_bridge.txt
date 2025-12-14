@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"This bridge always needs to be up to date", "release_date":{"day":12,"month":12,"year":2025}}
+{"version":"1.0.10", "notes":"Updated framework logic", "release_date":{"day":14,"month":12,"year":2025}}
