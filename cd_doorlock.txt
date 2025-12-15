@@ -1,1 +1,1 @@
-{"version":"2.1.6", "notes":"Fixed identifier perms errors", "release_date":{"day":14,"month":12,"year":2025}}
+{"version":"2.1.7", "notes":"Fixed the player loaded cache events", "release_date":{"day":15,"month":12,"year":2025}}
