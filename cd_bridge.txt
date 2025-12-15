@@ -1,1 +1,1 @@
-{"version":"1.0.10", "notes":"Updated framework logic", "release_date":{"day":14,"month":12,"year":2025}}
+{"version":"1.0.11", "notes":"Buf fixes and added functions", "release_date":{"day":15,"month":12,"year":2025}}
