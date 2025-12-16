@@ -1,1 +1,1 @@
-{"version":"5.1.2", "notes":"Integrated cd_bridge (major update)", "release_date":{"day":14,"month":12,"year":2025}}
+{"version":"5.1.3", "notes":"Integrated cd_bridge (major update)", "release_date":{"day":15,"month":12,"year":2025}}
