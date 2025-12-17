@@ -1,1 +1,1 @@
-{"version":"1.0.12", "notes":"Fixed garage job keys and qbcore drawtextui", "release_date":{"day":16,"month":12,"year":2025}}
+{"version":"1.0.13", "notes":"Improvements and fixes (BRIDGE MUST ALWAYS BE KEPT UP TO DATE)", "release_date":{"day":17,"month":12,"year":2025}}
