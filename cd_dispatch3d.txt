@@ -1,1 +1,1 @@
-{"version":"1.0.14", "notes":"ps-mdt Compatibility & Added Other Integrations", "release_date":{"day":8,"month":12,"year":2025}}
+{"version":"1.1.0", "notes":"Bridge Integration", "release_date":{"day":18,"month":12,"year":2025}}
