@@ -1,1 +1,1 @@
-{"version":"1.0.17", "notes":"Stable Version - Please Always Keep Updated", "release_date":{"day":24,"month":12,"year":2025}}
+{"version":"1.0.18", "notes":"Stable Version - Please Always Keep Updated", "release_date":{"day":26,"month":12,"year":2025}}
