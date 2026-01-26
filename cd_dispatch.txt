@@ -1,1 +1,1 @@
-{"version":"4.3.5", "notes":"Fixed an error with discord webhooks", "release_date":{"day":25,"month":11,"year":2025}}
+{"version":"4.3.7", "notes":"Minor bug fix", "release_date":{"day":26,"month":1,"year":2026}}
