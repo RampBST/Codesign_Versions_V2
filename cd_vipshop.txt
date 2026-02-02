@@ -1,1 +1,1 @@
-{"version":"4.2.2", "notes":"Fixed wrong balance on discord webhooks", "release_date":{"day":26,"month":8,"year":2025}}
+{"version":"4.3.0", "notes":"Integrated with cd_bridge", "release_date":{"day":2,"month":2,"year":2026}}
