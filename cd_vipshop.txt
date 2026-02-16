@@ -1,1 +1,1 @@
-{"version":"4.3.3", "notes":"Fixed /redeem not working correctly", "release_date":{"day":9,"month":2,"year":2026}}
+{"version":"4.3.4", "notes":"Bug fixes", "release_date":{"day":16,"month":2,"year":2026}}
