@@ -1,1 +1,1 @@
-{"version":"5.1.12", "notes":"Minor fixes", "release_date":{"day":12,"month":2,"year":2026}}
+{"version":"5.1.13", "notes":"Multiple fixes and improvments", "release_date":{"day":27,"month":2,"year":2026}}
