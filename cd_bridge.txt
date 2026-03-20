@@ -1,1 +1,1 @@
-{"version":"1.0.24", "notes":"Majour Integration Update", "release_date":{"day":12,"month":3,"year":2026}}
+{"version":"1.0.25", "notes":"Bug fixes and added new features", "release_date":{"day":20,"month":3,"year":2026}}
