@@ -1,1 +1,1 @@
-{"version":"1.2.5", "notes":"Anti cheat addons", "release_date":{"day":18,"month":3,"year":2026}}
+{"version":"1.2.6", "notes":"Fixed flashing player blip and pug paintball fix", "release_date":{"day":20,"month":3,"year":2026}}
