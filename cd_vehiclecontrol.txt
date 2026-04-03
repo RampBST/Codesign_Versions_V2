@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"livery improvments", "release_date":{"day":18,"month":4,"year":2025}}
+{"version":"1.0.7", "notes":"Added support for bomb bay doors", "release_date":{"day":3,"month":4,"year":2026}}
