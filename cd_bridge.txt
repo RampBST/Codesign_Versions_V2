@@ -1,1 +1,1 @@
-{"version":"1.0.26", "notes":"Another Major Update - Please Update", "release_date":{"day":13,"month":4,"year":2026}}
+{"version":"1.0.27", "notes":"Always Keep Updated", "release_date":{"day":21,"month":4,"year":2026}}
