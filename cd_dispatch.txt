@@ -1,1 +1,1 @@
-{"version":"4.3.11", "notes":"Anti cheta addons", "release_date":{"day":18,"month":3,"year":2026}}
+{"version":"4.3.12", "notes":"Fixes", "release_date":{"day":21,"month":4,"year":2026}}
