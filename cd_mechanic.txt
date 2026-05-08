@@ -1,1 +1,1 @@
-{"version":"0.0.3", "notes":"CLOSED BETA", "release_date":{"day":29,"month":4,"year":2026}}
+{"version":"0.0.4", "notes":"CLOSED BETA", "release_date":{"day":7,"month":5,"year":2026}}
