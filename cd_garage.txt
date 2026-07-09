@@ -1,1 +1,1 @@
-{"version":"6.0.14.beta", "notes":"BETA TESTING V6 UPDATE NOW LIVE!!!!", "release_date":{"day":8,"month":7,"year":2026}}
+{"version":"6.0.15.beta", "notes":"BETA TESTING V6 UPDATE NOW LIVE!!!!", "release_date":{"day":9,"month":7,"year":2026}}
