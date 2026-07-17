@@ -1,1 +1,1 @@
-{"version":"1.0.14", "notes":"Bug Fixes", "release_date":{"day":16,"month":7,"year":2026}}
+{"version":"1.0.15", "notes":"Added starting money to business creation", "release_date":{"day":17,"month":7,"year":2026}}
