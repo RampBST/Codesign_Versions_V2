@@ -1,1 +1,1 @@
-{"version":"1.2.10", "notes":"Minor Fixes", "release_date":{"day":17,"month":7,"year":2026}}
+{"version":"1.2.11", "notes":"Bug Fixes", "release_date":{"day":28,"month":8,"year":2026}}
