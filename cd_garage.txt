@@ -1,1 +1,1 @@
-{"version":"6.1.0", "notes":"Physical keys update and improvements/bug fixes", "release_date":{"day":4,"month":9,"year":2026}}
+{"version":"6.2.0", "notes":"Quality of life changes and bug fixes", "release_date":{"day":9,"month":9,"year":2026}}
