@@ -1,1 +1,1 @@
-{"version":"6.2.1", "notes":"Multiple minor hot fixes", "release_date":{"day":10,"month":9,"year":2026}}
+{"version":"6.2.2", "notes":"Small change but major bug fix", "release_date":{"day":10,"month":9,"year":2026}}
