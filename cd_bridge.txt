@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"New quality of life features", "release_date":{"day":9,"month":9,"year":2026}}
+{"version":"1.2.1", "notes":"Improvments and fixes", "release_date":{"day":10,"month":9,"year":2026}}
