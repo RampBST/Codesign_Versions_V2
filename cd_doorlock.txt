@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"Major Client Side Optimisations", "release_date":{"day":24,"month":8,"year":2026}}
+{"version":"2.3.0", "notes":"Updates and bug fix", "release_date":{"day":29,"month":9,"year":2026}}
