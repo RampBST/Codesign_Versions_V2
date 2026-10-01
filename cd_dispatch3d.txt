@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"Backend improvments and fixes", "release_date":{"day":25,"month":9,"year":2026}}
+{"version":"1.4.1", "notes":"Hotfix for large UI not opening", "release_date":{"day":1,"month":10,"year":2026}}
