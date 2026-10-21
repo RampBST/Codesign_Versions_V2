@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Bridge must always be updated", "release_date":{"day":29,"month":9,"year":2026}}
+{"version":"1.5.0", "notes":"Bridge must always be updated", "release_date":{"day":16,"month":10,"year":2026}}
