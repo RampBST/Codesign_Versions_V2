@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Hotfix for large UI not opening", "release_date":{"day":1,"month":10,"year":2026}}
+{"version":"1.4.2", "notes":"Hot fix for map not opening", "release_date":{"day":8,"month":10,"year":2026}}
