@@ -1,1 +1,1 @@
-{"version":"4.0.2", "notes":"small bug fixes", "release_date":{"day":14,"month":6,"year":2022}}
+{"version":"10.0.0", "notes":"You're using an old Codesign HUD! Switch to cd_hud for free", "release_date":{"day":10,"month":11,"year":2026}}
