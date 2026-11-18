@@ -1,1 +1,1 @@
-{"version":"2.4.1", "notes":"Fixes", "release_date":{"day":18,"month":11,"year":2026}}
+{"version":"2.4.1", "notes":"Fixed players being kicked when receiving latent events", "release_date":{"day":18,"month":11,"year":2026}}
